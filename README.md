@@ -35,7 +35,7 @@
 
 >- 휴식 시간과 움직인 시간 계산
 
->- 출처 : <www.slideshare.net/powerlee89/ss-36987083>
+>- [출처] : www.slideshare.net/powerlee89/ss-36987083
 
 **제품 사진**
 
