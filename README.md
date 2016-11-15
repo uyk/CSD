@@ -32,11 +32,11 @@
 >- 애플리케이션에서 운동량, 수면량 체크, 펫피트 충전 안내문 출력
 >- 휴식 시간과 움직인 시간을 계산하여 권장 소모 칼로리량 표시
 
->- [출처] : www.slideshare.net/powerlee89/ss-36987083
 
 **제품 사진**
 
 >   ![펫피트](https://github.com/uyk/CSD/blob/master/%ED%8E%AB%ED%94%BC%ED%8A%B8.PNG "펫피트")
+>- [출처] : www.slideshare.net/powerlee89/ss-36987083
 
 
 
