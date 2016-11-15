@@ -35,6 +35,8 @@
 
 >- 휴식 시간과 움직인 시간 계산
 
+![펫피트](https://github.com/uyk/CSD/blob/master/%ED%8E%AB%ED%94%BC%ED%8A%B8.PNG "펫피트")
+
 >- 출처 : <www.slideshare.net/powerlee89/ss-36987083>
 
 
