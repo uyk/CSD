@@ -66,6 +66,6 @@
 
 **제품 사진**
 
->   ![보이스](https://github.com/uyk/CSD/blob/master/%EB%B3%B4%EC%9D%B4%EC%8A%A4.png"보이스")
+>   ![보이스](https://github.com/uyk/CSD/blob/master/%EB%B3%B4%EC%9D%B4%EC%8A%A4.PNG"보이스")
 
 
