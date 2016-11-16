@@ -53,6 +53,7 @@
 >- [출처] : www.slideshare.net/powerlee89/ss-36987083
 
 
+
 ###3.2 보이스
 <br />
 **제품 설명**
@@ -63,9 +64,8 @@
 >- 강아지의 칼로리 소모량, 활동 및 휴식 여부 등 다양한 건강 지표들 측정
 >- 웹사이트 및 app를 통해 실시간으로 동기화 -> 수치들 종합적으로 해석해 강아지의 건강에 관한 의미 있는 정보와 지침 제공
 
+>- [출처] : http://blog.naver.com/smartstreet/220137162375
 
-**제품 사진**
 
->   ![보이스](https://github.com/uyk/CSD/blob/master/%EB%B3%B4%EC%9D%B4%EC%8A%A4.PNG "보이스")
 
 
